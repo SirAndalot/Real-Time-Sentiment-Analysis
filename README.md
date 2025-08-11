@@ -13,5 +13,6 @@ Features:
   Python 3.7+
   Microphone
   Vosk model (any English model) ([download from here](https://alphacephei.com/vosk/models))
-  After downloading the model, rename it to "model" and add it to the project
+  After downloading the model, rename it to "model" and add it to the project.
+  
   Libraries: pyaudio, vosk, nltk, numpy
